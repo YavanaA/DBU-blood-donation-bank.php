@@ -7,16 +7,9 @@ An enterprise-grade, web-based platform designed to digitize, monitor, optimize,
 
 ## 👥 Project Development Group
 
-| # | Student Name | Student ID | Department | Role |
-|---|--------------|------------|------------|------|
-| 1 | **Mihret Alemayehu** | `1601379` | 
-| 2 | **Abebech Nega** | `1601466` | 
-| 3 | **Gebeyanesh Smegnew** | `1601192` | 
-| 4 | **Fantayenesh Worku** | `1601171` | 
-| 5 | **Kalkidan Lemma** | `1601275` | 
 
-* **Instructor:** Mr. Getachew
-* **Academic Year:** 2026
+| 3 | **Gebeyanesh Semegnew** | | 
+
 
 ---
 
