@@ -5,10 +5,10 @@ An enterprise-grade, web-based platform designed to digitize, monitor, optimize,
 
 ---
 
-## 👥 Project Development Group
+## 👥 Project Development 
 
 
-| 3 | **Gebeyanesh Semegnew** | | 
+**Gebeyanesh Semegnew** 
 
 
 ---
